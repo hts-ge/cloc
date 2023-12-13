@@ -1,27 +1,4 @@
-nikusharoot@Nicks-MacBook-Pro Projects % cloc VulnerableCoreApp                                        
-      63 text files.
-      55 unique files.                              
-      16 files ignored.
-
-github.com/AlDanial/cloc v 1.98  T=0.05 s (1032.0 files/s, 446803.0 lines/s)
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-JavaScript                      12           2736           2390           9932
-CSS                              6             12             31           7349
-Razor                            9             38              2            420
-SVG                              5              0              0            292
-C#                              10             33              3            231
-JSON                             8              0              0            206
-YAML                             1              2              0             43
-Markdown                         2             12              0             33
-Text                             1              8              0             28
-MSBuild script                   1              0              0             11
--------------------------------------------------------------------------------
-SUM:                            55           2841           2426          18545
--------------------------------------------------------------------------------
-
-
+![image](https://github.com/hts-ge/cloc/assets/148594914/40cac701-d717-497c-b94a-de9b3d30f7de)
 
 <a name="___top"></a>
 # cloc
